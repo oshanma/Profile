@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Oshan Maharjan</string>
+
+
+    <string name="hello_world"> Hello World! </string>
+    <string name="name"> My name is Oshan Maharjan </string>
+    <string name="Body">I want to be an Android Developer and help individuals to by developing convenient mobile applications.</string>
+    <string name="say_hello">SAY HELLO !</string>
+</resources>
